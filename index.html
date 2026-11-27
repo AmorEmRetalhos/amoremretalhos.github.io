@@ -3,17 +3,11 @@
 <head>
   <!-- 
     ==========================================================================
-    AMOR EM RETALHOS - LANDING PAGE & CATÁLOGO ARTESANAL
+    AMOR EM RETALHOS — PLATAFORMA OFICIAL & CATÁLOGO ARTESANAL
     ==========================================================================
-    Site estático pronto para publicação no GitHub Pages.
-    
-    COMO PERSONALIZAR ESTA PÁGINA:
-    1. WHATSAPP: Procure por "5567992999623" para alterar o número de atendimento.
-    2. E-MAIL: Procure por "amoremretalhos@gmail.com" para trocar o e-mail de contato.
-    3. IMAGENS: Localizadas na pasta ./assets/images/ (colcha-king.jpg, colcha-queen.jpg, etc.)
-       Basta substituir os arquivos mantendo os mesmos nomes ou alterar os caminhos "src" abaixo.
-    4. MEDIDAS E PREÇOS: As tabelas e listas de cada produto estão prontas para edição
-       dentro de cada <article class="product-card">.
+    Ateliê especializado em colchas de patchwork, mantas e peças afetivas.
+    Desenvolvido em arquitetura estática leve (HTML5 / CSS3 / Vanilla JS).
+    Hospedagem oficial: https://amoremretalhos.github.io
     ==========================================================================
   -->
   <meta charset="UTF-8">
@@ -39,17 +33,19 @@
   <!-- Folha de Estilos Pura -->
   <link rel="stylesheet" href="./css/style.css">
 
-  <!-- Favicon SVG Embutido de Agulha & Linha -->
-  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%23BA4E35'/><path d='M30,70 Q50,20 70,30 Q80,50 50,75 Z' fill='none' stroke='%23FFFDF9' stroke-width='6' stroke-dasharray='8,6'/><circle cx='50' cy='50' r='10' fill='%23C8821E'/></svg>">
+  <!-- Favicon Oficial da Marca -->
+  <link rel="icon" type="image/jpeg" href="./assets/images/logo-icon.jpg">
 </head>
 <body>
 
   <!-- ==================== CABEÇALHO / NAVBAR ==================== -->
   <header class="header" id="topo">
     <div class="container header-inner">
-      <!-- Marca / Logo -->
+      <!-- Marca / Logo Oficial -->
       <a href="#topo" class="brand" aria-label="Página inicial AmorEmRetalhos">
-        <div class="brand-icon" aria-hidden="true">🧵</div>
+        <div class="brand-icon">
+          <img src="./assets/images/logo-icon.jpg" alt="Logo AmorEmRetalhos" width="50" height="50">
+        </div>
         <div class="brand-info">
           <span class="brand-name">AmorEm<span>Retalhos</span></span>
           <span class="brand-tagline">Artesanato & Retalhos com Afeto</span>
@@ -826,7 +822,9 @@
       <!-- Coluna Marca -->
       <div class="footer-brand">
         <a href="#topo" class="brand">
-          <div class="brand-icon" aria-hidden="true" style="background: var(--terracotta);">🧵</div>
+          <div class="brand-icon">
+            <img src="./assets/images/logo-icon.jpg" alt="Logo AmorEmRetalhos" width="50" height="50">
+          </div>
           <div class="brand-info">
             <span class="brand-name" style="color: #FFF;">AmorEm<span style="color: var(--mustard);">Retalhos</span></span>
             <span class="brand-tagline">Artesanato & Retalhos</span>

@@ -1,11 +1,11 @@
 # SESSION_STATE.md — AmorEmRetalhos
 
 ## 1. O que foi feito
-- **Criação da Landing Page & Catálogo Estático**:
-  - `index.html`: Estrutura HTML5 semântica completa com metatags (SEO, Open Graph, acessibilidade), cabeçalho responsivo, hero section, vitrine com 4 produtos detalhados (Colcha King, Queen, Casal e Almofadas/Peseiras), guia didático de blocos (10x10, 15x15 e 20x20 cm), tabela comparativa de medidas de camas, seção institucional "Sobre Nós", fluxo de encomenda passo a passo, canais de atendimento direto, FAQ interativo com `<details>` e rodapé elegante.
-  - `css/style.css`: Estilização pura sem frameworks, paleta artesanal com tons quentes (terracota `#BA4E35`, mostarda `#C8821E`, sálvia `#5A7754`, cacau `#362419` e off-white `#FAF7F2`), detalhes em pesponto (*dashed stitch*), tipografia Google Fonts (*Playfair Display*, *Caveat*, *Plus Jakarta Sans*) e responsividade para desktop, tablet e mobile.
-  - `assets/images/`: Imagens de alta qualidade geradas e otimizadas para web (`colcha-king.jpg`, `colcha-queen.jpg`, `colcha-artesanal.jpg`, `detalhe-almofadas.jpg`).
-  - `README.md`: Guia de configuração, ativação do GitHub Pages e alteração de dados de contato e imagens.
+- **Criação e Refinamento da Landing Page & Catálogo Estático**:
+  - `index.html`: Estrutura HTML5 semântica completa com metatags (SEO, Open Graph, acessibilidade), cabeçalho responsivo com logo oficial em imagem, vitrine com 4 produtos detalhados (Colcha King, Queen, Casal e Almofadas/Peseiras), guia didático de blocos (10x10, 15x15 e 20x20 cm), tabela comparativa de medidas de camas, seção institucional "Sobre Nós", fluxo de encomenda passo a passo, canais de atendimento direto, FAQ interativo com `<details>` e rodapé com identidade visual consistente.
+  - `css/style.css`: Estilização pura sem frameworks, estilização do `.brand-icon` com suporte a imagem com bordas arredondadas e sombras acolhedoras, paleta artesanal com tons quentes (terracota `#BA4E35`, mostarda `#C8821E`, sálvia `#5A7754`, cacau `#362419` e off-white `#FAF7F2`), detalhes em pesponto (*dashed stitch*), tipografia Google Fonts (*Playfair Display*, *Caveat*, *Plus Jakarta Sans*) e responsividade para desktop, tablet e mobile.
+  - `assets/images/`: Imagens de alta qualidade geradas e otimizadas para web (`logo-icon.jpg`, `logo.jpg`, `colcha-king.jpg`, `colcha-queen.jpg`, `colcha-artesanal.jpg`, `detalhe-almofadas.jpg`).
+  - `README.md`: Reformulado integralmente para um padrão profissional e institucional de alto nível da marca AmorEmRetalhos (sem tutoriais genéricos ou de template).
   - `.gitignore`: Proteção de arquivos de sistema e imagens brutas de geração.
 - **Git & Publicação**:
   - Repositório Git conectado ao remoto oficial da organização: `git@github.com:AmorEmRetalhos/amoremretalhos.github.io.git`.

@@ -8,8 +8,9 @@
   - `README.md`: Guia de configuração, ativação do GitHub Pages e alteração de dados de contato e imagens.
   - `.gitignore`: Proteção de arquivos de sistema e imagens brutas de geração.
 - **Git & Publicação**:
-  - Inicialização do repositório Git local e conexão com o remoto `git@github.com:GeovaneParedes/AmorEmRetalhos.git`.
+  - Repositório Git conectado ao remoto oficial da organização: `git@github.com:AmorEmRetalhos/amoremretalhos.github.io.git`.
   - Pushes realizados respeitando a política de branches: branch de desenvolvimento `feature/landing-page-catalogo` e branch base `main` sincronizada.
+  - Endereço oficial GitHub Pages configurado: `https://amoremretalhos.github.io`.
 
 ## 2. Decisões Tomadas
 - **Stack 100% Estática**: HTML5 + CSS3 puros com caminhos relativos (`./`), permitindo que o GitHub Pages sirva o site diretamente da raiz sem necessidade de pipeline de build ou Node.js.

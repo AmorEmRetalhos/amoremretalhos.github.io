@@ -74,10 +74,10 @@ A presença digital da **AmorEmRetalhos** foi projetada seguindo os princípios 
 
 ## 💌 Canais Oficiais de Atendimento & Encomendas
 
-As peças são confeccionadas sob medida de acordo com a paleta de cores e o tamanho escolhido pelo cliente:
+As colchas são confeccionadas sob medida de acordo com a dimensão escolhida pelo cliente (King, Queen, Casal, Solteiro ou sob medida especial). A curadoria, combinação de tecidos e blocos é de responsabilidade artística da costureira. Além disso, o cliente pode enviar peças de roupas de entes queridos falecidos para serem integradas à colcha, recebendo fotos e vídeos durante a confecção:
 
-- **WhatsApp Comercial**: [+55 (67) 99299-9623](https://wa.me/5567992999623) *(Atendimento consultivo com envio de fotos de prévia dos tecidos)*
-- **E-mail Institucional**: [amoremretalhos@gmail.com](mailto:amoremretalhos@gmail.com)
+- **WhatsApp Comercial**: [+55 (67) 99299-9623](https://wa.me/5567992999623) *(Atendimento consultivo com envio de fotos e vídeos dos detalhes da confecção)*
+- **E-mail Institucional**: [amoremretalhos01@gmail.com](mailto:amoremretalhos01@gmail.com)
 - **Horário de Atendimento**: Segunda a Sábado, das 08h às 18h (Horário de Brasília)
 - **Ateliê & Centro de Distribuição**: Campo Grande - Mato Grosso do Sul, Brasil
 - **Cobertura Logística**: Entregas em todo o território nacional via Correios (PAC / Sedex) e transportadoras parceiras com seguro e código de rastreamento.

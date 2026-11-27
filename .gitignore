@@ -1,0 +1,10 @@
+# Sistema Operacional e Editores
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# Imagens brutas temporárias (as imagens otimizadas estão em assets/images/)
+Gemini_Generated_Image_*.jpeg
